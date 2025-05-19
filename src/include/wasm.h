@@ -3,6 +3,5 @@
 
 extern void js_log(const char *msg);
 
-
 #endif
 
